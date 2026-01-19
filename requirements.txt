@@ -12,5 +12,5 @@ ddgs
 langgraph
 langgraph-supervisor
 langchain-text-splitters
-faiss --q
+faiss-cpu
 python-multipart
