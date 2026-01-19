@@ -1,0 +1,16 @@
+streamlit
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-huggingface
+transformers
+pydantic
+ddgs
+langgraph
+langgraph-supervisor
+langchain-text-splitters
+faiss --q
+python-multipart
