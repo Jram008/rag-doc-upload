@@ -14,3 +14,4 @@ langgraph-supervisor
 langchain-text-splitters
 faiss-cpu
 python-multipart
+sentence-transformers
